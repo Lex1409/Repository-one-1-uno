@@ -1,0 +1,28 @@
+
+
+p{
+    color: rgb(0, 255, 157);
+    
+    }
+    
+    #especial{
+        color: brown;
+    }
+
+    p.verd {
+        color:chartreuse;
+    
+    
+    }
+    p.groc {
+        color:yellow;
+
+    }
+    p.negro {
+        font-weight: bold;
+        color: black;
+    }
+    .blau {
+        color: blue;
+
+    }
